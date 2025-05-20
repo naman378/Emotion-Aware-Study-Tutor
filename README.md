@@ -1,2 +1,2 @@
-# Emotion-Aware-Study-Partner
-AI TUTOR
+# Emotion-Aware-Study-Tutor
+Smart Learning that Feels You
