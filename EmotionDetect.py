@@ -37,3 +37,4 @@ cv2.putText(img,predictions_dict['dominant_emotion'],
             font,1,(0,0,255),2,cv2.LINE_4)
 plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 plt.show()
+#in gthub we can also the edit files of an project
